@@ -202,7 +202,5 @@ Accept wildcard characters: False
 
 ## RELATED LINKS
 
-[Describe
-Context
-about_should]()
+[Describe Context about_should]()
 
