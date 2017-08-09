@@ -95,11 +95,5 @@ Accept wildcard characters: False
 
 ## RELATED LINKS
 
-[Describe
-It
-BeforeEach
-AfterEach
-about_Should
-about_Mocking
-about_TestDrive]()
+[Describe It Before Each After Each about_Should about_Mocking about_TestDrive]()
 
