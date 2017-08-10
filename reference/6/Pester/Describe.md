@@ -121,10 +121,5 @@ Accept wildcard characters: False
 
 ## RELATED LINKS
 
-[It
-Context
-Invoke-Pester
-about_Should
-about_Mocking
-about_TestDrive]()
+[It Context Invoke-Pester about_Should about_Mocking about_TestDrive]()
 

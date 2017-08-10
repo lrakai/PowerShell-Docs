@@ -272,11 +272,5 @@ Accept wildcard characters: False
 
 ## RELATED LINKS
 
-[Assert-MockCalled
-Assert-VerifiableMocks
-Describe
-Context
-It
-about_Should
-about_Mocking]()
+[Assert-MockCalled Assert-VerifiableMocks Describe Context It about_Should about_Mocking]()
 
